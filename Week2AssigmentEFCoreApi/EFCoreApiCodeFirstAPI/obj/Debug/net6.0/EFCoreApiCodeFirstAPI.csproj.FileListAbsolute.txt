@@ -1,0 +1,7 @@
+D:\Bootcamp\week-2-assigment-yasingul-main\Week2AssigmentEFCoreApi\EFCoreApiCodeFirstAPI\obj\Debug\net6.0\EFCoreApiCodeFirstAPI.csproj.AssemblyReference.cache
+D:\Bootcamp\week-2-assigment-yasingul-main\Week2AssigmentEFCoreApi\EFCoreApiCodeFirstAPI\obj\Debug\net6.0\EFCoreApiCodeFirstAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\week-2-assigment-yasingul-main\Week2AssigmentEFCoreApi\EFCoreApiCodeFirstAPI\obj\Debug\net6.0\EFCoreApiCodeFirstAPI.AssemblyInfoInputs.cache
+D:\Bootcamp\week-2-assigment-yasingul-main\Week2AssigmentEFCoreApi\EFCoreApiCodeFirstAPI\obj\Debug\net6.0\EFCoreApiCodeFirstAPI.AssemblyInfo.cs
+D:\Bootcamp\week-2-assigment-yasingul-main\Week2AssigmentEFCoreApi\EFCoreApiCodeFirstAPI\obj\Debug\net6.0\EFCoreApiCodeFirstAPI.csproj.CoreCompileInputs.cache
+D:\Bootcamp\week-2-assigment-yasingul-main\Week2AssigmentEFCoreApi\EFCoreApiCodeFirstAPI\obj\Debug\net6.0\EFCoreApiCodeFirstAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Bootcamp\week-2-assigment-yasingul-main\Week2AssigmentEFCoreApi\EFCoreApiCodeFirstAPI\obj\Debug\net6.0\EFCoreApiCodeFirstAPI.MvcApplicationPartsAssemblyInfo.cache
